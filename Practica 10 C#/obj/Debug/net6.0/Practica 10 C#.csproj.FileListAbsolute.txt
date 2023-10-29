@@ -1,0 +1,14 @@
+C:\Users\erick\Desktop\Practica 10 C#\bin\Debug\net6.0\Practica 10 C#.exe
+C:\Users\erick\Desktop\Practica 10 C#\bin\Debug\net6.0\Practica 10 C#.deps.json
+C:\Users\erick\Desktop\Practica 10 C#\bin\Debug\net6.0\Practica 10 C#.runtimeconfig.json
+C:\Users\erick\Desktop\Practica 10 C#\bin\Debug\net6.0\Practica 10 C#.dll
+C:\Users\erick\Desktop\Practica 10 C#\bin\Debug\net6.0\Practica 10 C#.pdb
+C:\Users\erick\Desktop\Practica 10 C#\obj\Debug\net6.0\Practica 10 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\Practica 10 C#\obj\Debug\net6.0\Practica 10 C#.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\Practica 10 C#\obj\Debug\net6.0\Practica 10 C#.AssemblyInfo.cs
+C:\Users\erick\Desktop\Practica 10 C#\obj\Debug\net6.0\Practica 10 C#.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Practica 10 C#\obj\Debug\net6.0\Practica 10 C#.dll
+C:\Users\erick\Desktop\Practica 10 C#\obj\Debug\net6.0\refint\Practica 10 C#.dll
+C:\Users\erick\Desktop\Practica 10 C#\obj\Debug\net6.0\Practica 10 C#.pdb
+C:\Users\erick\Desktop\Practica 10 C#\obj\Debug\net6.0\Practica 10 C#.genruntimeconfig.cache
+C:\Users\erick\Desktop\Practica 10 C#\obj\Debug\net6.0\ref\Practica 10 C#.dll
